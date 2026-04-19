@@ -68,7 +68,7 @@ const convert = async () => {
   return <CircularProgress />;
 }
   return (
-    <Paper sx={{ p: 4, backgroundColor: "lightblue" }} elevation={3}>
+    <Paper sx={{ p: 4}} elevation={3}>
       <Typography variant="h5" gutterBottom>
         Currency Converter
       </Typography>
